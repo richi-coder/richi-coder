@@ -1,9 +1,6 @@
 ### Hi there! 👋
 
-
-**richiProgrammer/richiProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Rapidly skim my profile here!
 
 - 🔭 I’m currently working on ... MY PORTFOLIO
 - 🌱 I’m currently learning ... BOOTSTRAP AND REACT
@@ -14,3 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Mr!
 - ⚡ Fun fact:  ... From Mechanical Engineering to Front-End Web Development!
 
+
+Thanks for visiting!
