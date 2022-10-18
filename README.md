@@ -13,7 +13,7 @@ _____
 - 👯 I’m looking to collaborate on ... GITHUB AND MEDIUM
 - 🤔 I’m looking for help with ... FRONT-END DEV
 - 💬 Ask me about ... FRONT-END DEV
-- 📫 How to reach me: ... richiprogrammer.github.io/richi-portfolio
+- 📫 How to reach me: ... [RICHI´S PORTFOLIO](https://richiprogrammer.github.io/richi-portfolio/ "Visit Richi's Portfolio!")
 - 😄 Pronouns: ... Mr!
 - ⚡ Fun fact:  ... From Mechanical Engineering to Front-End Web Development!
 
