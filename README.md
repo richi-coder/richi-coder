@@ -2,6 +2,8 @@
 
 Rapidly skim my profile here!
 
+[Richi's Portfolio](richiprogrammer.github.io/richi-portfolio)
+
 - 🔭 I’m currently working on ... MY PORTFOLIO
 - 🌱 I’m currently learning ... BOOTSTRAP AND REACT
 - 👯 I’m looking to collaborate on ... GITHUB AND MEDIUM
