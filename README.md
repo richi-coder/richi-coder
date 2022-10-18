@@ -2,7 +2,7 @@
 
 Rapidly skim my profile here!
 
-<a href="https://richiprogrammer.github.io/richi-portfolio/">RICHI'S PORTFOLIO target="_blank"</a>
+<a href="https://richiprogrammer.github.io/richi-portfolio/" target="_blank">RICHI'S PORTFOLIO</a>
 
 [RICHI´S PORTFOLIO](https://richiprogrammer.github.io/richi-portfolio/ "Visit Richi's Portfolio!")
 
