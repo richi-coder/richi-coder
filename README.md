@@ -2,6 +2,8 @@
 
 Rapidly skim my profile here!
 
+<a href="https://richiprogrammer.github.io/richi-portfolio/">RICHI'S PORTFOLIO target="_blank"</a>
+
 [RICHI´S PORTFOLIO](https://richiprogrammer.github.io/richi-portfolio/ "Visit Richi's Portfolio!")
 
 - 🔭 I’m currently working on ... MY PORTFOLIO
