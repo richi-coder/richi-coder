@@ -2,7 +2,7 @@
 
 Rapidly skim my profile here!
 
-[Richi's Portfolio](richiprogrammer.github.io/richi-portfolio Visit Richi's Portfolio!)
+[Richi's Portfolio](richiprogrammer.github.io/richi-portfolio "Visit Richi's Portfolio!")
 
 - 🔭 I’m currently working on ... MY PORTFOLIO
 - 🌱 I’m currently learning ... BOOTSTRAP AND REACT
