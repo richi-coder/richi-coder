@@ -6,6 +6,8 @@ Rapidly skim my profile here!
 
 [RICHI´S PORTFOLIO](https://richiprogrammer.github.io/richi-portfolio/ "Visit Richi's Portfolio!")
 
+_____
+
 - 🔭 I’m currently working on ... MY PORTFOLIO
 - 🌱 I’m currently learning ... BOOTSTRAP AND REACT
 - 👯 I’m looking to collaborate on ... GITHUB AND MEDIUM
@@ -16,4 +18,4 @@ Rapidly skim my profile here!
 - ⚡ Fun fact:  ... From Mechanical Engineering to Front-End Web Development!
 
 
-Thanks for visiting!
+> Thanks for visiting!
