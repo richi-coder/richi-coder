@@ -21,8 +21,8 @@ _____
 > Thanks for visiting!
 
 
-**TRACKING MY TIME CODING:**
+## **TRACKING MY TIME CODING:**
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@2db4d374-00ea-4dca-a30e-e490256172a0/6d575458-2430-4f0b-b37c-78b0dad52566.png" /></a>
 
-**LANGUAGES:**
+## **LANGUAGES:**
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@2db4d374-00ea-4dca-a30e-e490256172a0/570f5e62-b2a1-4654-93a3-127e21b8017e.png" /></a>
