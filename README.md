@@ -20,3 +20,6 @@ _____
 
 > Thanks for visiting!
 
+
+TRACKING MY TIME CODING!
+<figure><embed src="https://wakatime.com/share/@2db4d374-00ea-4dca-a30e-e490256172a0/1b029f20-a575-44de-a480-3132d01aad16.svg"></embed></figure>
