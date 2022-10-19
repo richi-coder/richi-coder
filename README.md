@@ -22,4 +22,4 @@ _____
 
 
 TRACKING MY TIME CODING!
-<figure><embed src="https://wakatime.com/share/@2db4d374-00ea-4dca-a30e-e490256172a0/1b029f20-a575-44de-a480-3132d01aad16.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2db4d374-00ea-4dca-a30e-e490256172a0/6d575458-2430-4f0b-b37c-78b0dad52566.png" /></a>
