@@ -19,3 +19,8 @@ _____
 
 
 > Thanks for visiting!
+
+
+WAKATIME: 
+
+[![wakatime](https://wakatime.com/badge/github/richiProgrammer/dashboard-API.svg)](https://wakatime.com/badge/github/richiProgrammer/dashboard-API)
