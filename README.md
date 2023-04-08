@@ -1,6 +1,4 @@
-### Hi there! 👋
-
-# REACT DEVELOPER - JAVASCRIPT
+# REACT DEVELOPER - JAVASCRIPT 👋
 ## richiCoder
 
 <a href="https://richicoder.com" target="_blank">RICHI'S PORTFOLIO</a>
@@ -9,12 +7,12 @@
 
 _____
 
-- 🔭 I’m currently working on ... MY PORTFOLIO
-- 🌱 I’m currently learning ... BOOTSTRAP AND REACT
+- 🔭 I’m currently working on ... A WEB GAME!
+- 🌱 I’m currently learning ... NEXT.JS
 - 👯 I’m looking to collaborate on ... GITHUB AND MEDIUM
 - 🤔 I’m looking for help with ... FRONT-END DEV
 - 💬 Ask me about ... FRONT-END DEV
-- 📫 How to reach me: ... [RICHI´S PORTFOLIO](https://richiprogrammer.github.io/richi-portfolio/ "Visit Richi's Portfolio!")
+- 📫 How to reach me: ... [RICHI´S PORTFOLIO](https://richicoder.com/ "Visit Richi's Portfolio!")
 - 😄 Pronouns: ... Mr!
 - ⚡ Fun fact:  ... From Mechanical Engineering to Front-End Web Development!
 
