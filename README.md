@@ -5,8 +5,6 @@
 
 <a href="https://richicoder.com" target="_blank">RICHI'S PORTFOLIO</a>
 
-[RICHI´S PORTFOLIO](https://richicoder.com/ "Visit Richi's Portfolio!")
-
 ### Responsive Design
 ### Single Page Apps
 ### Progressive Web Apps
