@@ -1,10 +1,11 @@
 ### Hi there! 👋
 
-Rapidly skim my profile here!
+# REACT DEVELOPER - JAVASCRIPT
+## richiCoder
 
-<a href="https://richiprogrammer.github.io/richi-portfolio/" target="_blank">RICHI'S PORTFOLIO</a>
+<a href="https://richicoder.com" target="_blank">RICHI'S PORTFOLIO</a>
 
-[RICHI´S PORTFOLIO](https://richiprogrammer.github.io/richi-portfolio/ "Visit Richi's Portfolio!")
+[RICHI´S PORTFOLIO](https://richicoder.com/ "Visit Richi's Portfolio!")
 
 _____
 
