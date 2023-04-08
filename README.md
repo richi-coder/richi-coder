@@ -1,3 +1,5 @@
+<img alt='richicoder_logo' src='http://richicoder.com/richicoder_logo.png' />
+
 # REACT DEVELOPER - JAVASCRIPT 👋
 ## richiCoder
 
