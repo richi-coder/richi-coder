@@ -7,6 +7,20 @@
 
 [RICHI´S PORTFOLIO](https://richicoder.com/ "Visit Richi's Portfolio!")
 
+### Responsive Design
+### Single Page Apps
+### Progressive Web Apps
+### Static Site Generation
+### API communications
+
+- Frontend Developer
+- Self-driven career
+- React JS focused
+- Born in Venezuela
+- 28 years old
+- Mechanical Engineer
+- Spanish, Portuguese, English
+
 _____
 
 - 🔭 I’m currently working on ... A WEB GAME!
