@@ -1,9 +1,10 @@
 <img alt='richicoder_logo' src='http://richicoder.com/richicoder_logo.png' />
 
-# REACT DEVELOPER - JAVASCRIPT 👋
+# React Developer - Javascript 👋
 ## richiCoder
+_____
 
-<a href="https://richicoder.com" target="_blank">RICHI'S PORTFOLIO</a>
+<a href="https://richicoder.com" target="_blank">richiCoder Portfolio!</a>
 
 ### Responsive Design
 ### Single Page Apps
