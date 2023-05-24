@@ -10,7 +10,7 @@ _____
 ### Responsive Design
 ### Single Page Apps
 ### Progressive Web Apps
-### Static Site Generation
+### Multi Page Apps
 ### API communications
 
 - Frontend Developer
