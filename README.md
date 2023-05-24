@@ -2,6 +2,7 @@
 
 # React Developer - Javascript 👋
 ## richiCoder
+![CodeWars_Badge_richiCoder](https://www.codewars.com/users/richicoder/badges/large)
 _____
 
 <a href="https://richicoder.com" target="_blank">richiCoder Portfolio!</a>
