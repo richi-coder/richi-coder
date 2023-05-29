@@ -15,19 +15,19 @@ _____
 
 - Frontend Developer
 - Self-driven career
-- React JS focused
-- Born in Venezuela
+- React / Next focused
+- Developing in Linux
 - 28 years old
 - Mechanical Engineer
 - Spanish, Portuguese, English
 
 _____
 
-- 🔭 I’m currently working on ... A WEB GAME!
-- 🌱 I’m currently learning ... NEXT.JS
+- 🔭 I’m currently working on ... A TRAILERS APP!
+- 🌱 I’m polishing my skills on ... NEXT.JS
 - 👯 I’m looking to collaborate on ... GITHUB AND MEDIUM
-- 🤔 I’m looking for help with ... FRONT-END DEV
-- 💬 Ask me about ... FRONT-END DEV
+- 🤔 I’m looking for help with ... FRONT-END DEVELOPMENT
+- 💬 Ask me about ... WEB DEVELOPMENT
 - 📫 How to reach me: ... [RICHI´S PORTFOLIO](https://richicoder.com/ "Visit Richi's Portfolio!")
 - 😄 Pronouns: ... Mr!
 - ⚡ Fun fact:  ... From Mechanical Engineering to Front-End Web Development!
