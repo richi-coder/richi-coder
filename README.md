@@ -22,8 +22,7 @@ _____
 - Mechanical Engineer
 - Spanish, Portuguese, English
 
-.. image:: https://wakatime.com/share/@richiCoder/f553d357-929f-4ff6-8344-c5bdc726e53e.png
-    :target: https://wakatime.com/
+<img alt='richicoder_activity_wakatime' src='https://wakatime.com/share/@richiCoder/f553d357-929f-4ff6-8344-c5bdc726e53e.png' width='300px' height='auto' />
 
 _____
 <img alt='richicoder_logo' src='https://richicoder.com/4pics_1word_desktop.png' width='500px' height='auto' />
