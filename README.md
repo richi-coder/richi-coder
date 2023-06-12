@@ -26,6 +26,8 @@ _____
 
 _____
 <img alt='richicoder_logo' src='https://richicoder.com/4pics_1word_desktop.png' width='500px' height='auto' />
+<img alt='richicoder_logo' src='https://richicoder.com/3dGallery_desktop.png' width='500px' height='auto' />
+
 
 - 🔭 I’m currently working on ... A THREE.JS APP!
 - 🌱 I’m polishing my skills on ... NEXT.JS
