@@ -22,6 +22,7 @@ _____
 
 _____
 ![CodeWars_Badge_richiCoder](https://richicoder.com/4pics_1word_mobile.png)
+![CodeWars_Badge_richiCoder](https://richicoder.com/4pics_1word_desktop.png)
 
 - 🔭 I’m currently working on ... A THREE.JS APP!
 - 🌱 I’m polishing my skills on ... NEXT.JS
