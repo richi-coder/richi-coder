@@ -1,7 +1,4 @@
 <img alt='richicoder_logo' src='http://richicoder.com/richicoder_logo.png' />
-<img alt='richicoder_logo' src='https://richicoder.com/richicoder_tablet.png' width='300px' height='auto' />
-
-
 # Frontend Developer - React / Next 👋
 ![CodeWars_Badge_richiCoder](https://www.codewars.com/users/richicoder/badges/large)
 _____
@@ -13,6 +10,7 @@ _____
 ### Progressive Web Apps
 ### Multi Page Apps
 ### API communications
+<img alt='richicoder_logo' src='https://richicoder.com/richicoder_tablet.png' width='300px' height='auto' />
 
 - Frontend Developer
 - Self-driven career
