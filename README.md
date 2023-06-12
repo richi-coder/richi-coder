@@ -23,6 +23,7 @@ _____
 - Spanish, Portuguese, English
 
 <img alt='richicoder_activity_wakatime' src='https://wakatime.com/share/@richiCoder/f553d357-929f-4ff6-8344-c5bdc726e53e.png' width='800px' height='auto' />
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@richiCoder/f553d357-929f-4ff6-8344-c5bdc726e53e.png" /></a>
 
 _____
 <img alt='richicoder_logo' src='https://richicoder.com/4pics_1word_desktop.png' width='500px' height='auto' />
