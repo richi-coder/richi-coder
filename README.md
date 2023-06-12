@@ -22,7 +22,7 @@ _____
 
 _____
 
-- 🔭 I’m currently working on ... A TRAILERS APP!
+- 🔭 I’m currently working on ... A THREE.JS APP!
 - 🌱 I’m polishing my skills on ... NEXT.JS
 - 👯 I’m looking to collaborate on ... GITHUB AND MEDIUM
 - 🤔 I’m looking for help with ... FRONT-END DEVELOPMENT
