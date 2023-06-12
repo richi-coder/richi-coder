@@ -11,6 +11,7 @@ _____
 ### Progressive Web Apps
 ### Multi Page Apps
 ### API communications
+
 <img alt='richicoder_logo' src='https://richicoder.com/richicoder_tablet.png' width='300px' height='auto' />
 
 - Frontend Developer
@@ -22,8 +23,7 @@ _____
 - Spanish, Portuguese, English
 
 _____
-![CodeWars_Badge_richiCoder](https://richicoder.com/4pics_1word_mobile.png)
-![CodeWars_Badge_richiCoder](https://richicoder.com/4pics_1word_desktop.png)
+<img alt='richicoder_logo' src='https://richicoder.com/4pics_1word_desktop.png' width='500px' height='auto' />
 
 - 🔭 I’m currently working on ... A THREE.JS APP!
 - 🌱 I’m polishing my skills on ... NEXT.JS
