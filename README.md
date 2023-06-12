@@ -30,7 +30,7 @@ _____
 <img alt='richicoder_logo' src='https://richicoder.com/richiCalcMobile_Final.png' width='250px' height='auto' />
 <img alt='richicoder_logo' src='https://richicoder.com/richi_shop_desktop.png' width='500px' height='auto' />
 <img alt='richicoder_logo' src='https://richicoder.com/4pics_1word_desktop.png' width='500px' height='auto' />
-
+<img alt='richicoder_logo' src='https://richicoder.com/richiTrailers_mobile.png' width='250px' height='auto' />
 
 
 - 🔭 I’m currently working on ... A THREE.JS APP!
