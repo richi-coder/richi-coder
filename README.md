@@ -27,7 +27,7 @@ _____
 _____
 
 <img alt='richicoder_logo' src='https://richicoder.com/3dGallery_desktop.png' width='500px' height='auto' />
-<img alt='richicoder_logo' src='https://richicoder.com/richiCalcMobile_Final.png' width='500px' height='auto' />
+<img alt='richicoder_logo' src='https://richicoder.com/richiCalcMobile_Final.png' width='250px' height='auto' />
 <img alt='richicoder_logo' src='https://richicoder.com/richi_shop_desktop.png' width='500px' height='auto' />
 <img alt='richicoder_logo' src='https://richicoder.com/4pics_1word_desktop.png' width='500px' height='auto' />
 
