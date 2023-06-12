@@ -1,4 +1,6 @@
 <img alt='richicoder_logo' src='http://richicoder.com/richicoder_logo.png' />
+<img alt='richicoder_logo' src='https://richicoder.com/richicoder_tablet.png' />
+
 
 # Frontend Developer - React / Next 👋
 ![CodeWars_Badge_richiCoder](https://www.codewars.com/users/richicoder/badges/large)
